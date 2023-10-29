@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GetOffer.iml" filepath="$PROJECT_DIR$/.idea/GetOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-api.iml" filepath="$PROJECT_DIR$/GetOffer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-application.iml" filepath="$PROJECT_DIR$/GetOffer-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-common.iml" filepath="$PROJECT_DIR$/GetOffer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-domain.iml" filepath="$PROJECT_DIR$/GetOffer-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-infra.iml" filepath="$PROJECT_DIR$/GetOffer-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-starter.iml" filepath="$PROJECT_DIR$/GetOffer-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetOffer-subject.iml" filepath="$PROJECT_DIR$/GetOffer-subject.iml" />
+    </modules>
+  </component>
+</project>

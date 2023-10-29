@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GetOffer-common" />
+        <module name="GetOffer-infra" />
+        <module name="GetOffer-application" />
+        <module name="GetOffer-domain" />
+        <module name="GetOffer-api" />
+        <module name="GetOffer-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GetOffer-api" target="1.5" />
+      <module name="GetOffer-application" target="1.5" />
+      <module name="GetOffer-common" target="1.5" />
+      <module name="GetOffer-domain" target="1.5" />
+      <module name="GetOffer-infra" target="1.5" />
+      <module name="GetOffer-starter" target="1.5" />
+      <module name="GetOffer-subject" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
